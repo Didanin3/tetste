@@ -1,0 +1,44 @@
+header{
+ border:solid 0px;
+
+ width: 90%;
+ padding: 15px;
+ 
+}
+
+.menu{
+    border: 0px solid red;
+    width: 100%;
+    padding: 15px;
+    background-image: url("imagens/fundotopo.jpg");
+
+}
+ .black{
+    background-color: black;
+ }
+
+ a{
+    color: rgb(21, 27, 27);
+ }
+
+ body{
+    color: rgb(19, 24, 24);
+ }
+ #fundopreto{
+    background-image: url("imagens/fundotopo.jpg");
+ }
+ h1{
+    align-items: center;
+    font-size: 30px;
+    
+ }
+ li{
+    font-size:20px ;
+    text-align:left;
+ }
+  .borda{
+    border: 10% solid rgb(216, 65, 65);
+    background-color: black;
+  }
+  
+  
